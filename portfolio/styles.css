@@ -147,7 +147,7 @@ a{
     color: white;
 }
 
-.servi{
+.servicos-lista{
     display: flex;
     background-color: var(--cor-secundaria-vermelho);
     margin-top: 1rem;
@@ -259,7 +259,7 @@ footer > img{
         width: 35%;
     }
 
-    .servi{
+    .servicos-lista{
         border-radius: 0;
         padding: 2rem;
     }
